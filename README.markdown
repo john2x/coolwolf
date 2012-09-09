@@ -1,17 +1,9 @@
-Bad Wolf
-========
+Cool Wolf
+=========
 
-A color scheme for Vim, pieced together by [Steve Losh](http://stevelosh.com/).
+A "cool" version of [Bad Wolf](http://github.com/sjl/badwolf) (by Steve Losh).
 
-There's still quite a lot of room for improvement (particularly in HTML) so feel
-free to send me ideas through the [issue tracker][] or pull requests.
-
-It's MIT/X11 licensed, so feel free to hack it apart if you like.
-
-**If you're going to send a pull request that you want me to merge, please post
-a comment in it with before/after screenshots!**
-
-[issue tracker]: http://github.com/sjl/badwolf/issues
+I just swapped out colors.
 
 Screenshots
 -----------
@@ -58,11 +50,3 @@ Determines whether CSS properties should be highlighted.
 
 Default: `0` (off)
 
-Contributing
-------------
-
-I'd love pull requests, but won't necessarily merge all of them.  Color schemes
-are a very subjective topic -- we don't all have the same taste.
-
-**If you're going to send a pull request that you want me to merge, please post
-a comment in it with before/after screenshots!**
